@@ -1,3 +1,20 @@
 body {
-	background-color: maroon;
+	font-family: 'Oxygen', sans-serif;
+	background-color: #61122f;
+	color: #fff;
+}
+
+/* Header navbar */
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+/* logo Image */
+#logo-img {
+	background: url(../images/restaurant-logo_large.png) no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
 }
